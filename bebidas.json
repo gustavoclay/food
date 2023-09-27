@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nome": "Vinho Tinto",
+        "preco": 25.99,
+        "descricao": "Um vinho tinto encorpado, perfeito para acompanhar pratos italianos.",
+        "imagem": "https://img.freepik.com/fotos-gratis/vista-frontal-da-garrafa-de-vinho-com-uma-taca-de-vinho-no-fundo-preto_140725-94852.jpg",
+        "restaurante_id": 1
+    },
+    {
+        "id": 2,
+        "nome": "Limonada",
+        "preco": 5.99,
+        "descricao": "Limonada refrescante com um toque de hortelã.",
+        "imagem": "https://img.freepik.com/fotos-gratis/variedade-com-copo-de-limonada-no-escuro_23-2148437050.jpg?size=626&ext=jpg",
+        "restaurante_id": 1
+    },
+    {
+        "id": 4,
+        "nome": "Cerveja Sapporo",
+        "preco": 7.99,
+        "descricao": "Cerveja japonesa premium, leve e refrescante.",
+        "imagem": "https://img.freepik.com/fotos-gratis/carne-frita-com-cerveja-limao-e-nozes-na-mesa-de-madeira-marrom_140725-26130.jpg",
+        "restaurante_id": 2
+    },
+    {
+        "id": 5,
+        "nome": "Margarita Clássica",
+        "preco": 8.99,
+        "descricao": "Tequila, licor de laranja e suco de limão, servido com sal na borda.",
+        "imagem": "https://img.freepik.com/fotos-gratis/cocktail-com-fatias-de-limao-lateral_140725-2723.jpg",
+        "restaurante_id": 3
+    },
+    {
+        "id": 6,
+        "nome": "Horchata",
+        "preco": 4.99,
+        "descricao": "Bebida doce à base de arroz, canela e baunilha.",
+        "imagem": "https://img.freepik.com/fotos-premium/bebida-refrescante-de-agua-horchata-de-arroz-canela-e-acucar_951562-20991.jpg",
+        "restaurante_id": 3
+    },
+    {
+        "id": 9,
+        "nome": "Vinho Branco Chardonnay",
+        "preco": 29.99,
+        "descricao": "Um vinho branco encorpado, perfeito para acompanhar pratos de frutos do mar.",
+        "imagem": "https://img.freepik.com/fotos-gratis/saboroso-copo-de-vinho-e-garrafa_23-2148261636.jpg?size=626&ext=jpg",
+        "restaurante_id": 5
+    },
+    {
+        "id": 8,
+        "nome": "Cerveja Artesanal",
+        "preco": 9.99,
+        "descricao": "Uma seleção de cervejas artesanais da região.",
+        "imagem": "https://img.freepik.com/fotos-gratis/caneca-de-cerveja-loira-de-angulo-alto-e-sementes_23-2148726881.jpg",
+        "restaurante_id": 4
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Cartão de Crédito",
+        "descricao": "Aceitamos os principais cartões de crédito.",
+        "imagem": "https://img.freepik.com/vetores-gratis/design-realista-de-cartao-de-credito_23-2149126091.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Cartão de Débito",
+        "descricao": "Aceitamos os principais cartões de débito.",
+        "imagem": "https://img.freepik.com/vetores-gratis/design-realista-de-cartao-de-credito_23-2149126093.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Pix",
+        "descricao": "Aceitamos pagamentos via Pix.",
+        "imagem": "https://img.freepik.com/fotos-gratis/cartao-bancario-no-celular-para-pagamento-online_107791-16646.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Transferência Bancária",
+        "descricao": "Aceitamos transferências bancárias.",
+        "imagem": "https://img.freepik.com/vetores-premium/banco-edificio-icone-isolado-no-branco_68708-406.jpg"
+    }
+]
